@@ -1,2 +1,14 @@
 # sportcnjcw-hub
-HTML page archive and documentation
+
+静态页面保存仓库
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
